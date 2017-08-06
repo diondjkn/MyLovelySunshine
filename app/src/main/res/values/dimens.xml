@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><string name="padding_header">16dp</string> </resources>
+<resources><string name="padding_header">16dp</string>
+    <dimen name="pad_header">16dp</dimen>
+</resources>
