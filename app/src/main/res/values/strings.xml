@@ -3,7 +3,17 @@
     <string name="my_sundae">Sunday</string>
     <string name="sdkjsdk">sdkjsdk</string>
     <string name="moderate_rain">Moderate Rain ga kepake</string>
-    <string name="_17_derajat">17 Derajat</string>
-    <string name="hujan">Moderate Rain</string>
+    <string name="jkt_17_derajat">17 Derajat</string>
+    <string name="smg_17_derajat">25 Derajat</string>
+    <string name="sby_17_derajat">1 Derajat</string>
+    <string name="bali_17_derajat">14 Derajat</string>
+    <string name="jkt_cuaca">Moderate Rain</string>
+    <string name="smg_cuaca">Light Clouds</string>
+    <string name="sby_cuaca">Snow</string>
+    <string name="bali_cuaca">Storm</string>
+    <string name="jkt_namaKota">Jakarta</string>
+    <string name="smg_namaKota">Semarang</string>
+    <string name="sby_namaKota">Surabaya</string>
+    <string name="bali_namaKota">Denpasar</string>
 
 </resources>

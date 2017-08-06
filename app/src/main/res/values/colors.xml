@@ -3,5 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="dash_boar_col">#248acf</color>
+    <color name="dashBoardCol">#248acf</color>
+    <color name="row1">#64b0af</color>
+    <color name="row2">#2987b0</color>
+
+
 </resources>
